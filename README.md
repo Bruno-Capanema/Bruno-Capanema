@@ -29,7 +29,9 @@ Hi, I’m Bruno Capanema, a tech enthusiast transitioning into the data science 
 ## Looking to learn:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-- Data Science fundamentals
+
+- Data Science fundamentals/
+  
 - Relevant tools and technologies for data analysis
 
 ## GitHub Stats
