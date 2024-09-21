@@ -55,6 +55,25 @@ Hi, I’m Bruno Capanema, a tech enthusiast transitioning into the data science 
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Capanema&layout=donut-vertical&langs_count=7&theme=neon"/>
 </div>
 
+<div style="display: flex; justify-content: space-around; align-items: center; margin-top: 20px;">
+    <!-- GitHub Stats Box -->
+    <div style="width: 400px; height: 200px; background-color: #000; padding: 20px; border-radius: 10px; border: 1px solid #FFFFFF;">
+        <h3 style="color: #00ffff;">Bruno Capanema's GitHub Stats</h3>
+        <p style="color: #00ffff;">🌟 Total Stars Earned: 0</p>
+        <p style="color: #00ffff;">🖋️ Total Commits: 50</p>
+        <p style="color: #00ffff;">🔧 Total PRs: 0</p>
+        <p style="color: #00ffff;">🛠️ Total Issues: 0</p>
+        <p style="color: #00ffff;">⏳ Contributed to (last year): 0</p>
+    </div>
+
+    <!-- Most Used Languages Box -->
+    <div style="width: 400px; height: 200px; background-color: #000; padding: 20px; border-radius: 10px; border: 1px solid #FFFFFF;">
+        <h3 style="color: #00ffff;">Most Used Languages</h3>
+        <p style="color: #ff1493;">No languages data.</p>
+    </div>
+</div>
+
+
 &nbsp;  
 &nbsp;
 
