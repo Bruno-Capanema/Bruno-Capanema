@@ -17,7 +17,7 @@
 
 Hi, I’m Bruno Capanema, a tech enthusiast transitioning into the data science field with a background in administration.
 
-<img align='right' src="https://github.com/user-attachments/assets/37788ced-fc75-4791-b8e4-eb833d213078" width="200" alt="C-69" style="margin-left: 15px; margin-bottom: 40px;">
+<img align='right' src="https://github.com/user-attachments/assets/37788ced-fc75-4791-b8e4-eb833d213078" width="200" alt="C-69" style="margin-left: 15px; margin-bottom: 5px;">
 
 Currently, I’m learning Python and data analysis tools, and I’m working on projects that merge my interest in technology with my organizational skills. My journey has just begun, but I’m passionate about learning, problem-solving, and exploring new technologies.
 
