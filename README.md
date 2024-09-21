@@ -6,6 +6,7 @@ Hi, I’m Bruno Capanema, a tech enthusiast transitioning into the data science 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/bc70b26c-455d-46d9-9a35-760735b2ee4b" alt="pngegg" width="200" style="margin-left: 15px;" />
 </p>
+
 <p>- 🔭 Currently working on: Expanding my knowledge in Python and data science.
 - 🌱 Currently learning: Python, Data Science, Git, and Machine Learning.
 - 👯 Looking to collaborate on: Open-source projects related to data science and technology.
