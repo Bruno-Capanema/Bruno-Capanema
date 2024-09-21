@@ -9,8 +9,7 @@ Hi, I’m Bruno Capanema, a tech enthusiast transitioning into the data science 
 - 💬 Ask me about: Tech, data analysis, and process optimization.
 - 📫 How to reach me: Check my contact info below.
 - ⚡ Fun fact: I love comfortable footwear, especially during casual moments!
-  
-  
+    
   <img src="https://github.com/user-attachments/assets/bc70b26c-455d-46d9-9a35-760735b2ee4b" alt="pngegg" width="300" />
   
 ## Tools and Technologies
