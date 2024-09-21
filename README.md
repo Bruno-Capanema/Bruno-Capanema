@@ -3,14 +3,6 @@
 <a href="https://www.linkedin.com/in/bruno-capanema/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:brunomasterchief@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
-<br>
-<!-- Botão de Follow com GIF -->
-<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</br> 
-Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-
 ---
 
 ## About Me
