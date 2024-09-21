@@ -15,8 +15,9 @@
 
 ## About Me
 
-<h2>Hi, I’m Bruno Capanema, a tech enthusiast transitioning into the data science field with a background in administration.</h2>
-<img align='right' src="https://github.com/user-attachments/assets/37788ced-fc75-4791-b8e4-eb833d213078" width="230" alt="C-69">
+Hi, I’m Bruno Capanema, a tech enthusiast transitioning into the data science field with a background in administration.
+
+<img align='right' src="https://github.com/user-attachments/assets/37788ced-fc75-4791-b8e4-eb833d213078" width="200" alt="C-69">
 
 Currently, I’m learning Python and data analysis tools, and I’m working on projects that merge my interest in technology with my organizational skills. My journey has just begun, but I’m passionate about learning, problem-solving, and exploring new technologies.
 
@@ -28,32 +29,42 @@ Currently, I’m learning Python and data analysis tools, and I’m working on p
 - ⚡ Fun fact: I love comfortable footwear, especially during casual moments!
 
 
+
+
+
 ---
 
 ## Tools and Technologies
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+<div style="display: flex; gap: 10px;">
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+</div>
 
----
+
 
 ## I’m currently learning:
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<div style="display: flex; gap: 10px;">
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+</div>
 
 - Business and market insights
 
----
+
 
 ## Looking to learn:
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+<div style="display: flex; gap: 10px;">
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+</div>
 
 - Data Science fundamentals
   
 - Relevant tools and technologies for data analysis
+
 
 <div>
 <a href="https://github.com/Bruno-Capanema">
@@ -61,8 +72,6 @@ Currently, I’m learning Python and data analysis tools, and I’m working on p
   
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Capanema&layout=donut-vertical&langs_count=7&theme=neon"/>
 </div>
-
-
 &nbsp;  
 &nbsp;
 
