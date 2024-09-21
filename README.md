@@ -10,6 +10,7 @@ Hi, I’m Bruno Capanema, a tech enthusiast transitioning into the data science 
 - 💬 Ask me about: Tech, data analysis, and process optimization.
 - 📫 How to reach me: Check my contact info below.
 - ⚡ Fun fact: I love comfortable footwear, especially during casual moments!
+  
 
   <img src="https://github.com/user-attachments/assets/37788ced-fc75-4791-b8e4-eb833d213078" 
      style="min-width: 300px; max-width: 300px; width: 300px; float: right;" 
@@ -40,12 +41,11 @@ Hi, I’m Bruno Capanema, a tech enthusiast transitioning into the data science 
   
 - Relevant tools and technologies for data analysis
 
-
 <div>
 <a href="https://github.com/Bruno-Capanema">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Capanema&show_icons=true&theme=neon&include_all_commits=true&count_private=true&rank_icon=github"/>
+  
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Capanema&layout=compact&langs_count=7&theme=neon"/>
-     
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Capanema&show_icons=true&theme=neon&include_all_commits=true&count_private=true&rank_icon=github"/>
 </div>
 
 ## Contact Me
