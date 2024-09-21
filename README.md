@@ -25,6 +25,9 @@ Hi, I’m Bruno Capanema, a tech enthusiast transitioning into the data science 
 
 - Business and market insights
 
+- ![pngegg](https://github.com/user-attachments/assets/4d19ad11-61aa-4c08-94a1-f8b390de035d)
+
+
 ---
 
 ## Looking to learn:
