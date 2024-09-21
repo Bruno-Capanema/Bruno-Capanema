@@ -41,9 +41,6 @@ Hi, I’m Bruno Capanema, a tech enthusiast transitioning into the data science 
 - Relevant tools and technologies for data analysis
   
 
-## GitHub Stats
-![B GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=dark)
-
 <div>
 <a href="https://github.com/Bruno-Capanema">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Capanema&layout=compact&langs_count=7&theme=dracula"/>
