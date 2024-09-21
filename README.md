@@ -1,9 +1,7 @@
 # 👋 Bruno Capanema
 
 <a href="https://www.linkedin.com/in/bruno-capanema/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:brunomasterchief@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<img src="https://komarev.com/ghpvc/?username=Bruno-Capanema&label=Profile%20views&color=blueviolet&style=plastic" alt="Bruno-Capanema" />
-</em></p>
+<a href="mailto:brunomasterchief@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
 <br>
 <!-- Botão de Follow com GIF -->
