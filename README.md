@@ -36,6 +36,7 @@ Hi, I’m Bruno Capanema, a tech enthusiast transitioning into the data science 
   
 - Relevant tools and technologies for data analysis
   
+![Snake animation](https://github.com/Bruno-Capanema/Bruno-Capanema/blob/output/github-contribution-grid-snake.svg)
 
 ## GitHub Stats
 ![B GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=dark)
