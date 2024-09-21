@@ -41,15 +41,11 @@ Hi, I’m Bruno Capanema, a tech enthusiast transitioning into the data science 
 - Relevant tools and technologies for data analysis
 
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Capanema&show_icons=true&theme=neon&include_all_commits=true&count_private=true&rank_icon=github"/>
-
-
-
 <div>
 <a href="https://github.com/Bruno-Capanema">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Capanema&layout=compact&langs_count=7&theme=neon"/>
      
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Capanema&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Capanema&show_icons=true&theme=neon&include_all_commits=true&count_private=true&rank_icon=github"/>
 </div>
 
 ## Contact Me
