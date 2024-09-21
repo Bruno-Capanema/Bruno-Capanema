@@ -30,7 +30,7 @@ Currently, I’m learning Python and data analysis tools, and I’m working on p
 
 
 
-
+<div style="clear: both;"></div>
 
 ---
 
