@@ -4,6 +4,12 @@
 <a href="mailto:brunomasterchief@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <img src="https://komarev.com/ghpvc/?username=Bruno-Capanema&label=Profile%20views&color=blueviolet&style=plastic" alt="Bruno-Capanema" />
 
+<!-- Botão de Follow para GitHub -->
+<a href="https://github.com/Bruno-Capanema" target="_blank">
+  <img src="https://img.shields.io/github/followers/Bruno-Capanema?label=Follow&style=social" alt="GitHub Follow Bruno-Capanema">
+</a>
+
+
 ---
 
 ## About Me
