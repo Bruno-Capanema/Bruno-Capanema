@@ -3,15 +3,14 @@
 ## About Me
 Hi, I’m Bruno Capanema, a tech enthusiast transitioning into the data science field with a background in administration. Currently, I’m learning Python and data analysis tools, and I’m working on projects that merge my interest in technology with my organizational skills. My journey has just begun, but I’m passionate about learning, problem-solving, and exploring new technologies.
 
-- 🔭 Currently working on: Expanding my knowledge in Python and data science. <p align="right">
-  <img src="https://github.com/user-attachments/assets/bc70b26c-455d-46d9-9a35-760735b2ee4b" alt="pngegg" width="200" />
-</p>
+- 🔭 Currently working on: Expanding my knowledge in Python and data science. 
 - 🌱 Currently learning: Python, Data Science, Git, and Machine Learning.
 - 👯 Looking to collaborate on: Open-source projects related to data science and technology.
 - 💬 Ask me about: Tech, data analysis, and process optimization.
 - 📫 How to reach me: Check my contact info below.
 - ⚡ Fun fact: I love comfortable footwear, especially during casual moments!
-
+  
+<img src="https://github.com/user-attachments/assets/bc70b26c-455d-46d9-9a35-760735b2ee4b" alt="pngegg" style="float: right;" />
   
 ## Tools and Technologies
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
