@@ -11,7 +11,8 @@ Hi, I’m Bruno Capanema, a tech enthusiast transitioning into the data science 
 - ⚡ Fun fact: I love comfortable footwear, especially during casual moments!
 
     
-  <img src="https://github.com/user-attachments/assets/bc70b26c-455d-46d9-9a35-760735b2ee4b" alt="pngegg" width="300" />
+  <img src="![d5ab5ae63042c74dcdb9a3b77b1a94cc](https://github.com/user-attachments/assets/9c5252c5-44b0-4f38-9033-04b33aa39396)
+" alt="pngegg" width="300" />
 
   
 ## Tools and Technologies
