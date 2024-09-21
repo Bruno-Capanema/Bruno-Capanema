@@ -1,6 +1,8 @@
 # 👋 Hello! Welcome to my GitHub profile!
 
 <img src="https://komarev.com/ghpvc/?username=Bruno-Capanema&label=Profile%20views&color=blueviolet&style=plastic" alt="Bruno-Capanema" />
+<a href="https://www.linkedin.com/in/bruno-capanema/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:brunomasterchief@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ## About Me
 
@@ -50,11 +52,6 @@ Hi, I’m Bruno Capanema, a tech enthusiast transitioning into the data science 
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Capanema&layout=donut-vertical&langs_count=7&theme=neon"/>
 </div>
 
-## Contact Me
-<div>
-<a href="https://www.linkedin.com/in/bruno-capanema/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:brunomasterchief@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
 
 <!---
 Bruno-Capanema/Bruno-Capanema is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
