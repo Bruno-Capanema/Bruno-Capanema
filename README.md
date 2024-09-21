@@ -32,12 +32,21 @@ Hi, I’m Bruno Capanema, a tech enthusiast transitioning into the data science 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
 
-- Data Science fundamentals/
+- Data Science fundamentals
   
 - Relevant tools and technologies for data analysis
 
+![Snake animation](https://github.com/Bruno-Capanema/Bruno-Capanema/blob/output/github-contribution-grid-snake.svg)
+
+
 ## GitHub Stats
 ![B GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=dark)
+
+<div>
+<a href="https://github.com/Bruno-Capanema">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Capanema&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Capanema&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ## Contact Me
 <div>
