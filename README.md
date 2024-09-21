@@ -1,5 +1,7 @@
 # 👋 Hello! Welcome to my GitHub profile!
 
+<img src="https://komarev.com/ghpvc/?username=Bruno-Capanema&label=Profile%20views&color=brightgreen&style=plastic" alt="Bruno-Capanema" />
+
 ## About Me
 
 Hi, I’m Bruno Capanema, a tech enthusiast transitioning into the data science field with a background in administration. Currently, I’m learning Python and data analysis tools, and I’m working on projects that merge my interest in technology with my organizational skills. My journey has just begun, but I’m passionate about learning, problem-solving, and exploring new technologies.
