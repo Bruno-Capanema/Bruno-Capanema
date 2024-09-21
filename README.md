@@ -4,8 +4,7 @@
 Hi, I’m Bruno Capanema, a tech enthusiast transitioning into the data science field with a background in administration. Currently, I’m learning Python and data analysis tools, and I’m working on projects that merge my interest in technology with my organizational skills. My journey has just begun, but I’m passionate about learning, problem-solving, and exploring new technologies.
 
 <p>
-  <img src="https://github.com/user-attachments/assets/bc70b26c-455d-46d9-9a35-760735b2ee4b" alt="pngegg" style="width:150px; float: right; margin-left: 10px;" />
-  Este é o texto que ficará ao lado da imagem. Como a imagem tem o estilo `float: right`, o texto fluirá ao lado dela como se estivessem em colunas.
+  <img src="https://github.com/user-attachments/assets/bc70b26c-455d-46d9-9a35-760735b2ee4b" alt="pngegg" style="width:200px; float: right; margin-left: 10px;" />
 </p>
 
 - 🔭 Currently working on: Expanding my knowledge in Python and data science.
