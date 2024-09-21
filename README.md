@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my GitHub profile!
 
-<img src="https://komarev.com/ghpvc/?username=Bruno-Capanema&label=Profile%20views&color=neon&style=plastic" alt="Bruno-Capanema" />
+<img src="https://komarev.com/ghpvc/?username=Bruno-Capanema&label=Profile%20views&color=blueviolet&style=plastic" alt="Bruno-Capanema" />
 
 ## About Me
 
