@@ -19,7 +19,6 @@ Hi, I’m Bruno Capanema, a tech enthusiast transitioning into the data science 
 
 <img align='right' src="https://github.com/user-attachments/assets/37788ced-fc75-4791-b8e4-eb833d213078" width="200" alt="C-69" style="margin-left: 15px; margin-bottom: 30px;">
 
-
 Currently, I’m learning Python and data analysis tools, and I’m working on projects that merge my interest in technology with my organizational skills. My journey has just begun, but I’m passionate about learning, problem-solving, and exploring new technologies.
 
 - 🔭 Currently working on: Expanding my knowledge in Python and data science. 
@@ -29,12 +28,11 @@ Currently, I’m learning Python and data analysis tools, and I’m working on p
 - 📫 How to reach me: Check my contact info above.
 - ⚡ Fun fact: I love comfortable footwear, especially during casual moments!
 
-<br>
+---
 
-<div style="clear: both;"></div>
+## My Motto: "Fatiar e Servir"
 
-
-
+This principle guides my approach to both personal and professional growth. By breaking down complex challenges into smaller, manageable pieces ("fatiar"), I strive to serve my goals and the needs of others with focus, clarity, and purpose ("servir"). It’s a mantra for continuous learning and effective problem-solving!
 
 ---
 
@@ -46,21 +44,17 @@ Currently, I’m learning Python and data analysis tools, and I’m working on p
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
 </div>
 
-
-
 ## I’m currently learning:
 <div style="display: flex; gap: 10px;">
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 </div>
 
 - Business and market insights
 
-
-
 ## Looking to learn:
 <div style="display: flex; gap: 10px;">
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
 </div>
@@ -68,7 +62,6 @@ Currently, I’m learning Python and data analysis tools, and I’m working on p
 - Data Science fundamentals
   
 - Relevant tools and technologies for data analysis
-
 
 <div>
 <a href="https://github.com/Bruno-Capanema">
