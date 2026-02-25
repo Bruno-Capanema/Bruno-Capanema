@@ -15,61 +15,64 @@
 
 ## About Me
 
-Hi, I’m Bruno Capanema, a tech enthusiast transitioning into the data science field with a background in administration.
+Hi, I’m Bruno Capanema — a business-minded professional evolving toward Financial Intelligence and Data-driven Strategy.
 
 <img align='right' src="https://github.com/user-attachments/assets/37788ced-fc75-4791-b8e4-eb833d213078" width="200" alt="C-69" style="margin-left: 15px; margin-bottom: 30px;">
 
 Currently, I’m learning Python and data analysis tools, and I’m working on projects that merge my interest in technology with my organizational skills. My journey has just begun, but I’m passionate about learning, problem-solving, and exploring new technologies.
 
-- 🔭 Currently working on: Expanding my knowledge in Python and data science. 
-- 🌱 Currently learning: Python, Data Science, Git, and Machine Learning.
-- 👯 Looking to collaborate on: Open-source projects related to data science and technology.
-- 💬 Ask me about: Tech, data analysis, and process optimization.
-- 📫 How to reach me: Check my contact info above.
+🔭 Currently working on: Building structured financial analysis skills.
+
+- 🌱 Currently learning: Financial Management (College) and SQL fundamentals.
+- 📊 Next steps: Advanced Excel and Power BI for financial intelligence.
+- 👯 Looking to collaborate on: Projects involving financial analysis, dashboards, and business optimization.
+- 💬 Ask me about: Process improvement, financial metrics, and structured thinking.
 - ⚡ Fun fact: I love comfortable footwear, especially during casual moments!
 
 ---
 
 ## My Motto: "Fatiar e Servir"
 
-This principle guides my approach to both personal and professional growth. By breaking down complex challenges into smaller, manageable pieces ("fatiar"), I strive to serve my goals and the needs of others with focus, clarity, and purpose ("servir"). It’s a mantra for continuous learning and effective problem-solving!
+Complex problems rarely need complex ego — they need structure.
+
+I break challenges into measurable components ("fatiar") and transform them into clear, actionable outcomes ("servir").
+
+This mindset guides my evolution toward becoming a professional capable of:
+
+Structuring financial data
+
+Identifying inefficiencies
+
+Supporting strategic decisions with clarity
+
+Turning metrics into direction
+
+Because performance without structure is noise.
+And data without interpretation is wasted potential.
 
 ---
 
 ## Tools and Technologies
-<div style="display: flex; gap: 10px;">
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-</div>
+<div style="display: flex; gap: 10px;"> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> </div>
 
 ## I’m currently learning:
-<div style="display: flex; gap: 10px;">
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-</div>
+<div style="display: flex; gap: 10px;"> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> </div>
 
-- Business and market insights
+- Financial Management
 
-## Looking to learn:
-<div style="display: flex; gap: 10px;">
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-</div>
+- SQL fundamentals
 
-- Data Science fundamentals
+- Business and financial indicators Excel-Workbook
+
+## Next Learning Focus:
+<div style="display: flex; gap: 10px;"> <img loading="lazy" src="https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/main/SVG/Power-BI.svg" width="40" height="40"/> <img loading="lazy" src="https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/main/SVG/Power-Query-Colored.svg" width="40" height="40"/> <img loading="lazy" src="https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/main/SVG/Excel-Workbook.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> </div>
+
+- Advanced Excel for Financial Analysis
+
+- Power BI for Financial Dashboards
+
+- Python for Data Structuring and Automation
+
+
   
-- Relevant tools and technologies for data analysis
-
-<div>
-<a href="https://github.com/Bruno-Capanema">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Capanema&show_icons=true&theme=neon&include_all_commits=true&count_private=true&rank_icon=github"/>
-  
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Capanema&layout=donut-vertical&langs_count=7&theme=neon"/>
-</div>
-&nbsp;  
-&nbsp;
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=120&section=footer"/>
