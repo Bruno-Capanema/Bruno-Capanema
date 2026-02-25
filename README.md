@@ -19,15 +19,20 @@ Hi, I’m Bruno Capanema — a business-minded professional evolving toward Fina
 
 <img align='right' src="https://github.com/user-attachments/assets/37788ced-fc75-4791-b8e4-eb833d213078" width="200" alt="C-69" style="margin-left: 15px; margin-bottom: 30px;">
 
-Currently, I’m learning Python and data analysis tools, and I’m working on projects that merge my interest in technology with my organizational skills. My journey has just begun, but I’m passionate about learning, problem-solving, and exploring new technologies.
 
-🔭 Currently working on: Building structured financial analysis skills.
-
+- 🔭 Currently working on: Building structured financial analysis skills.
 - 🌱 Currently learning: Financial Management (College) and SQL fundamentals.
 - 📊 Next steps: Advanced Excel and Power BI for financial intelligence.
 - 👯 Looking to collaborate on: Projects involving financial analysis, dashboards, and business optimization.
 - 💬 Ask me about: Process improvement, financial metrics, and structured thinking.
 - ⚡ Fun fact: I love comfortable footwear, especially during casual moments!
+
+With a background in Administration, I am currently pursuing a degree in Financial Management, strengthening my analytical foundation to support smarter business decisions.
+
+My focus is practical:
+- Structure financial data.
+- Understand performance indicators.
+- Improve processes through measurable insights.
 
 ---
 
